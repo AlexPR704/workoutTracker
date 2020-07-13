@@ -1,4 +1,4 @@
-# workoutTracker
+# Workout Tracker
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
 ![screenshot of the code](gif.gif)
